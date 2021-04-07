@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sudo dpkg -i ~/scripts/files/GlobalProtect_UI_deb-5.1.1.0-17.deb
